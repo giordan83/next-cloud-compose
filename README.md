@@ -1,4 +1,4 @@
-#NextCloud into docker using docker-compose
+# NextCloud into docker using docker-compose
 
 1 . copy db.env.dist into db.env and fill the follow fields
 
