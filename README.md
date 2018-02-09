@@ -1,5 +1,9 @@
 # NextCloud into docker using docker-compose
 
+## This build not support raspberrypi
+
+#### Steps to follow:
+
 1 . copy db.env.dist into db.env and fill the follow fields
 
 ```
